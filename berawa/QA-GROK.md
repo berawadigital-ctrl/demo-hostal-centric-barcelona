@@ -2,7 +2,7 @@
 
 Autocontrol de fabricación (G04, A1–A11) y checklist C01–C16 (`docs/BERAWA-QA-CHECKLIST.md`) pasados por Grok antes del PR. **No es una auditoría independiente ni una aprobación**: Codex solo audita una muestra y nada se publica ni se envía sin visto bueno de Juan.
 
-- Rama: `demo/hostal-centric-barcelona` · HEAD de las pruebas: `e16602ad5adaf72462d67e31ada93b6323b9d9cd` · fecha: 29/10/2026 10:26 (Europe/Madrid)
+- Rama: `demo/hostal-centric-barcelona` · HEAD de las pruebas: `be1879357d3838e450b8d89416826a1009235225` · fecha: 29/10/2026 10:39 (Europe/Madrid)
 - Entorno: Chromium de Playwright (instalado por `playwright install chromium` en el clon limpio), axe-core 4.14.0, Lighthouse 13.6.0 (3 pasadas, mediana).
 - Resultado: **QA_GROK_FAIL**
 - Negocio medido: Maps 4.6 (LEIDA, coincide tel, web) · web original: LCP > 4 s · titular Casanova 13, S.L.U. (persona jurídica, sin cadena).
@@ -25,7 +25,7 @@ Autocontrol de fabricación (G04, A1–A11) y checklist C01–C16 (`docs/BERAWA-
 ## Checklist C01–C16
 | Código | Control | Resultado | Evidencia |
 |---|---|---|---|
-| C01 | Repositorio y SHA | **CUMPLE** | HEAD del clon limpio = e16602ad5adaf72462d67e31ada93b6323b9d9cd (el SHA final del PR es el del commit que añade este informe) |
+| C01 | Repositorio y SHA | **CUMPLE** | HEAD del clon limpio = be1879357d3838e450b8d89416826a1009235225 (el SHA final del PR es el del commit que añade este informe) |
 | C02 | Identidad y fuentes | **CUMPLE** | nombre, teléfono, dirección y datos comerciales con cita literal en berawa/knowledge.json; titular persona jurídica sin cadena y nota de Maps en berawa/evidence/captacion.json |
 | C03 | Licencias | **CUMPLE** | asset_manifest.json: ilustraciones propias generadas (origin=generated) y fuente Cormorant OFL; ninguna imagen, logo ni vídeo del negocio |
 | C04 | Diseño personalizado y no suplantador | **CUMPLE** | paleta e ilustraciones propias, aviso «Propuesta de rediseño independiente, no oficial» arriba y en el pie, sin logo ni marca del negocio; revisión visual de qa/capturas/ |
@@ -53,4 +53,4 @@ SEO < 90 por el `noindex,nofollow` y el `robots.txt` con `Disallow: /` (is-crawl
 ## Límites
 - No probado en Safari ni Firefox ni con lector de pantalla.
 - Las imágenes son ilustraciones propias: no muestran el establecimiento y así se rotulan.
-- Tiempo del autocontrol automático (ZIP, clon limpio, Lighthouse, capturas): 8.3 min.
+- Tiempo del autocontrol automático (ZIP, clon limpio, Lighthouse, capturas): 7.2 min.

@@ -1,0 +1,429 @@
+{
+ "url": "http://127.0.0.1:44345/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene siete tipos de habitación: Individual (dormitorio privado con baño para una persona), Doble Matrimonial, Doble con 2 camas, Twin Super"
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Todas las habitaciones disponen de baño privado, aire acondicionado, calefacción, TV de pantalla plana y caja fuerte, entre otros. La mayorí"
+    },
+    {
+     "q": "¿Hay recepción 24 horas?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: la recepción está abierta las 24 horas, y el personal es multilingüe y puede ayudarte con dudas o peticiones."
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Está en el Carrer de Casanova, 13, 08011 Barcelona (Eixample), a 400 m de la Plaza de la Universidad y a unos 10 minutos a pie de las Rambla"
+    },
+    {
+     "q": "¿Cómo llego desde el aeropuerto?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Desde el aeropuerto de El Prat puedes ir en taxi (unos 30 minutos) o en el Aerobús (unos 30 minutos): bájate en GRAN VIA-BORRELL, sigue dos "
+    },
+    {
+     "q": "¿Hay alguna oferta o descuento?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Su web indica: reservando en su web oficial hay como mínimo un 13% de descuento directo con el código WEBSECRET, y un 10% adicional sobre la"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón Reservar, que lleva a su propia web, donde su botón RESERVA abre su motor de reservas, o contactar con ellos po"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Teléfono +34 934 267 573 y correo info@hostalcentric.com; dirección: Carrer de Casanova, 13, 08011 Barcelona. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su política de privacidad indica como responsable del tratamiento a Casanova 13, S.L.U, con domicilio en C/ Casanovas 13, 08011 Barcelona. E"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su web recomienda el Parking Urgell (Floridablanca, 119), a 5 minutos a pie, abierto y vigilado 24/7, con precio especial para huéspedes; se"
+    },
+    {
+     "q": "¿Tienen terraza?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "El hostal cuenta con una amplia terraza de uso público, y la mayoría de las habitaciones tienen balcón."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 934 267 573 · info@hostalcentric.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón Reservar, que lleva a su propia web, donde su botón RESERVA abre su motor de reservas, o contactar con ellos po"
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 934 267 573 · info@hostalcentric.com."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 934 267 573 · info@hostalcentric.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Hay recepción 24 h?",
+    "¿Cómo llego desde el aeropuerto?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "stat1",
+    "svc3",
+    "svc7",
+    "room0_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té set tipus d'habitació: Individual (dormitori privat amb bany per a una persona), Doble Matrimonial, Doble amb 2 llits, Twin Superior, Tri"
+    },
+    {
+     "q": "Què tenen les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Totes les habitacions disposen de bany privat, aire condicionat, calefacció, TV de pantalla plana i caixa forta, entre d'altres. La majoria "
+    },
+    {
+     "q": "Hi ha recepció 24 hores?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: la recepció és oberta les 24 hores, i el personal és multilingüe i pot ajudar-te amb dubtes o peticions."
+    },
+    {
+     "q": "On és?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "És al Carrer de Casanova, 13, 08011 Barcelona (Eixample), a 400 m de la Plaça de la Universitat i a uns 10 minuts a peu de les Rambles."
+    },
+    {
+     "q": "Com arribo des de l'aeroport?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Des de l'aeroport del Prat pots anar en taxi (uns 30 minuts) o amb l'Aerobús (uns 30 minuts): baixa a GRAN VIA-BORRELL, segueix dues illes, "
+    },
+    {
+     "q": "Hi ha alguna oferta o descompte?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La seva web indica: reservant a la seva web oficial hi ha com a mínim un 13% de descompte directe amb el codi WEBSECRET, i un 10% addicional"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó Reservar, que porta a la seva pròpia web, on el seu botó RESERVA obre el seu motor de reserves, o contactar-hi per"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Telèfon +34 934 267 573 i correu info@hostalcentric.com; adreça: Carrer de Casanova, 13, 08011 Barcelona. Consultar per WhatsApp →"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva política de privacitat indica com a responsable del tractament Casanova 13, S.L.U, amb domicili a C/ Casanovas 13, 08011 Barcelona. "
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La seva web recomana el Parking Urgell (Floridablanca, 119), a 5 minuts a peu, obert i vigilat 24/7, amb preu especial per a hostes; es cont"
+    },
+    {
+     "q": "Teniu terrassa?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "L'hostal té una àmplia terrassa d'ús públic, i la majoria d'habitacions tenen balcó."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 934 267 573 · info@hostalcentric.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó Reservar, que porta a la seva pròpia web, on el seu botó RESERVA obre el seu motor de reserves, o contactar-hi per"
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 934 267 573 · info@hostalcentric.com."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 934 267 573 · info@hostalcentric.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Hi ha recepció 24 h?",
+    "Com arribo des de l'aeroport?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat1"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has seven room types: Single (private bedroom with bathroom for one person), Double with one bed, Double with 2 beds, Twin Superior, Trip"
+    },
+    {
+     "q": "What do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "All rooms have a private bathroom, air conditioning, heating, a flat-screen TV and a safe, among other things. Most have a balcony."
+    },
+    {
+     "q": "Is there a 24-hour reception?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: reception is open 24 hours, and the multilingual staff can help with questions or requests."
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "It is at Carrer de Casanova, 13, 08011 Barcelona (Eixample), 400 m from Plaza de la Universidad and about a 10-minute walk from Las Ramblas."
+    },
+    {
+     "q": "How do I get there from the airport?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "From El Prat airport you can take a taxi (about 30 minutes) or the Aerobús (about 30 minutes): get off at GRAN VIA-BORRELL, walk two blocks,"
+    },
+    {
+     "q": "Is there any offer or discount?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Its website says: booking on its official website gives at least 13% direct discount with the code WEBSECRET, plus an extra 10% off the Norm"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book with the Book button, which takes you to its own website, where its RESERVA button opens its booking engine, or contact them by"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Phone +34 934 267 573 and email info@hostalcentric.com; address: Carrer de Casanova, 13, 08011 Barcelona. Ask on WhatsApp →"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Its privacy policy names Casanova 13, S.L.U as data controller, based at C/ Casanovas 13, 08011 Barcelona. The footer of its website cites t"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Its website recommends Parking Urgell (Floridablanca, 119), 5 minutes on foot, open and supervised 24/7, with a special guest price; it is a"
+    },
+    {
+     "q": "Do you have a terrace?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "The hostal has a large terrace for public use, and most rooms have a balcony."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 934 267 573 · info@hostalcentric.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book with the Book button, which takes you to its own website, where its RESERVA button opens its booking engine, or contact them by"
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 934 267 573 · info@hostalcentric.com."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 934 267 573 · info@hostalcentric.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is reception open 24 h?",
+    "How do I get there from the airport?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat1"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il propose sept types de chambre : Simple (chambre privée avec salle de bain pour une personne), Double (grand lit), Double à 2 lits, Twin S"
+    },
+    {
+     "q": "Qu'ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Toutes les chambres disposent d'une salle de bain privée, de la climatisation, du chauffage, d'une TV à écran plat et d'un coffre-fort, entr"
+    },
+    {
+     "q": "Y a-t-il une réception 24 heures ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : la réception est ouverte 24 h sur 24, et le personnel multilingue peut vous aider pour toute question ou demande."
+    },
+    {
+     "q": "Où est-ce ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il se trouve au Carrer de Casanova, 13, 08011 Barcelone (Eixample), à 400 m de la Plaza de la Universidad et à environ 10 minutes à pied des"
+    },
+    {
+     "q": "Comment venir depuis l'aéroport ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Depuis l'aéroport d'El Prat, vous pouvez prendre un taxi (environ 30 minutes) ou l'Aerobús (environ 30 minutes) : descendez à GRAN VIA-BORRE"
+    },
+    {
+     "q": "Y a-t-il une offre ou une remise ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Son site indique : en réservant sur son site officiel, remise directe d'au moins 13 % avec le code WEBSECRET, et 10 % de plus sur le Tarif N"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton Réserver, qui mène à son propre site, où son bouton RESERVA ouvre son moteur de réservation, ou les cont"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Téléphone +34 934 267 573 et courriel info@hostalcentric.com ; adresse : Carrer de Casanova, 13, 08011 Barcelone. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sa politique de confidentialité désigne Casanova 13, S.L.U comme responsable du traitement, domicilié C/ Casanovas 13, 08011 Barcelone. Le p"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Son site recommande le Parking Urgell (Floridablanca, 119), à 5 minutes à pied, ouvert et surveillé 24/7, avec un tarif spécial pour les cli"
+    },
+    {
+     "q": "Avez-vous une terrasse ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "L'hostal dispose d'une grande terrasse à usage public, et la plupart des chambres ont un balcon."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 934 267 573 · info@hostalcentric.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton Réserver, qui mène à son propre site, où son bouton RESERVA ouvre son moteur de réservation, ou les cont"
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 934 267 573 · info@hostalcentric.com."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 934 267 573 · info@hostalcentric.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "La réception est-elle ouverte 24 h ?",
+    "Comment venir depuis l'aéroport ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
