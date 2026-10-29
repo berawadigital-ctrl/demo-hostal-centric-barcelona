@@ -57,15 +57,15 @@ FOOT={'es':'Esta página es una propuesta de diseño hecha por Berawa sin encarg
 'ca':"Aquesta pàgina és una proposta de disseny feta per Berawa sense encàrrec de l'establiment. Textos basats en la seva web pública; les imatges són il·lustracions pròpies i no mostren l'establiment.",
 'en':'This page is a design proposal made by Berawa without any commission from the business. Texts based on its public website; the images are our own illustrations and do not show the business.',
 'fr':"Cette page est une proposition de design réalisée par Berawa sans commande de l'établissement. Textes basés sur son site public ; les images sont des illustrations propres et ne montrent pas l'établissement."}
-BU='https://booking.avirato.com/?code=21914871'
-BOOK=dict(mode='engine',url={'es':BU,'ca':BU,'en':BU,'fr':BU})
+W='https://www.hostalcentric.com/'
+BOOK=dict(mode='engine',url={'es':W+'habitaciones/','ca':W+'ca/','en':W+'en/rooms/','fr':W+'fr/'})
 D=dict(name='Hostal Cèntric',ac='#2b3138',ac2='#b0925f',ac2_a11y='#7a5f2e',book=BOOK,around=[],foot=FOOT,
  address='Carrer de Casanova, 13 · 08011 Barcelona',phones=['+34 934 267 573'],emails=['info@hostalcentric.com'],maps='Hostal Cèntric, Carrer de Casanova 13, Barcelona',t=T)
 META=dict(repo='demo-hostal-centric-barcelona',name='Hostal Cèntric',legal_name='Casanova 13, S.L.U.',registry_ids=['REAT HB-002694'],
  url='https://www.hostalcentric.com/',domain='hostalcentric.com',municipality='Barcelona',province='Barcelona',sector='hostal en el Eixample',
  read_at='2026-10-29T10:24:00+01:00',created_at='2026-10-29T10:30:00+01:00',built_at='2026-10-29T10:30:00+01:00',audit_date='2026-10-29T07:48:00+01:00',
  rating=dict(value=4.6,coincide=['telefono','web'],date='2026-10-29T06:52:44+01:00',url='https://www.google.com/maps/place/Hostal+C%C3%A8ntric/@41.3824438,2.162506,17z/data=!4m9!3m8!1s0x12a4a28af14c1075:0x2eefa0e02d39042d!5m2!4m1!1i2!8m2!3d41.3824438!4d2.162506!16s%2Fg%2F1tgzk88r?hl=es&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D'),
- book=dict(mode='engine',url=BOOK['url'],note='Los botones Reservar van al motor de reservas que ya enlaza su propia web (Avirato). La demo no construye ningun motor.'),
+ book=dict(mode='engine',url=BOOK['url'],note='Los botones Reservar van a la pagina de habitaciones/inicio de su propia web en cada idioma, donde su boton RESERVA abre su motor Avirato (el enlace directo del motor lleva un parametro de identificacion que el control de seguridad S10 trata como posible secreto). La demo no construye ningun motor.'),
  first_of_type='no aplica: hostal con precedente en demos anteriores',
  nota_contenido_ajeno='La web del negocio tiene contenido inyectado ajeno oculto; la demo no usa ni enlaza nada de eso. Evidencia fuera del repo: demos/hostal-centric-barcelona/spam/spam.md')
 QS={

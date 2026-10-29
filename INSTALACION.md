@@ -23,6 +23,6 @@ Si cambias el contenido de `index.html`, mantén los scripts y estilos en `app.j
 
 ## Limitaciones
 - Datos leídos de hostalcentric.com el 29/10/2026; precios y condiciones pueden haber cambiado (el asistente avisa de que se confirmen al reservar).
-- Reservas: Los botones Reservar van al motor de reservas que ya enlaza su propia web (Avirato). La demo no construye ningun motor. Teléfono +34 934 267 573 · info@hostalcentric.com. No hay motor de reservas ni disponibilidad en esta demo.
+- Reservas: Los botones Reservar van a la pagina de habitaciones/inicio de su propia web en cada idioma, donde su boton RESERVA abre su motor Avirato (el enlace directo del motor lleva un parametro de identificacion que el control de seguridad S10 trata como posible secreto). La demo no construye ningun motor. Teléfono +34 934 267 573 · info@hostalcentric.com. No hay motor de reservas ni disponibilidad en esta demo.
 - No se ha probado en Safari ni Firefox ni con lector de pantalla.
 - No se toca DNS ni se publica nada por iniciativa propia.
