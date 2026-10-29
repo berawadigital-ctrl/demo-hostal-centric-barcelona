@@ -1,0 +1,650 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hostal-centric-barcelona",
+ "source_site": "https://www.hostalcentric.com/",
+ "source_read_at": "2026-10-29T10:24:00+01:00",
+ "note": "Respuestas solo con datos publicados en hostalcentric.com (solo secciones legitimas). Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "individual",
+     "doble",
+     "twin",
+     "triple",
+     "cuadruple"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio",
+     "individual",
+     "doble",
+     "twin",
+     "triple",
+     "quadruple"
+    ],
+    "en": [
+     "what rooms",
+     "room types",
+     "single",
+     "double",
+     "twin",
+     "triple",
+     "quadruple"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "simple",
+     "double",
+     "twin",
+     "triple",
+     "quadruple"
+    ]
+   },
+   "a": {
+    "es": "Tiene siete tipos de habitación: Individual (dormitorio privado con baño para una persona), Doble Matrimonial, Doble con 2 camas, Twin Superior, Triple (ideal para familias o pequeños grupos), Triple Superior y Cuádruple (para familias, dos parejas o grupos de amigos).",
+    "ca": "Té set tipus d'habitació: Individual (dormitori privat amb bany per a una persona), Doble Matrimonial, Doble amb 2 llits, Twin Superior, Triple (ideal per a famílies o grups petits), Triple Superior i Quàdruple (per a famílies, dues parelles o grups d'amics).",
+    "en": "It has seven room types: Single (private bedroom with bathroom for one person), Double with one bed, Double with 2 beds, Twin Superior, Triple (ideal for families or small groups), Triple Superior and Quadruple (for families, two couples or groups of friends).",
+    "fr": "Il propose sept types de chambre : Simple (chambre privée avec salle de bain pour une personne), Double (grand lit), Double à 2 lits, Twin Supérieure, Triple (idéale pour familles ou petits groupes), Triple Supérieure et Quadruple (pour familles, deux couples ou groupes d'amis)."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/room-details/habitacion-individual/",
+     "quote": "Dormitorio privado con baño para una persona"
+    },
+    {
+     "url": "https://www.hostalcentric.com/room-details/habitacion-doble/",
+     "quote": "Habitación Doble Matrimonial"
+    },
+    {
+     "url": "https://www.hostalcentric.com/room-details/habitacion-twin/",
+     "quote": "Habitación Doble con 2 Camas"
+    },
+    {
+     "url": "https://www.hostalcentric.com/room-details/habitacion-twin-superior/",
+     "quote": "Para parejas o colegas exigentes"
+    },
+    {
+     "url": "https://www.hostalcentric.com/room-details/habitacion-triple/",
+     "quote": "Ideal para familias o pequeños grupos"
+    },
+    {
+     "url": "https://www.hostalcentric.com/room-details/habitacion-triple-superior/",
+     "quote": "Habitación Triple Superior"
+    },
+    {
+     "url": "https://www.hostalcentric.com/room-details/habitacion-cuadruple/",
+     "quote": "Perfecta para familias, dos parejas o grupos de amigos."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "tienen las habitaciones",
+     "banyo",
+     "bano privado",
+     "aire acondicionado",
+     "calefaccion",
+     "caja fuerte",
+     "television",
+     "equipamiento"
+    ],
+    "ca": [
+     "tenen les habitacions",
+     "bany privat",
+     "aire condicionat",
+     "calefaccio",
+     "caixa forta",
+     "televisio",
+     "equipament"
+    ],
+    "en": [
+     "rooms have",
+     "private bathroom",
+     "air conditioning",
+     "heating",
+     "safe",
+     "tv",
+     "equipment"
+    ],
+    "fr": [
+     "ont les chambres",
+     "salle de bain",
+     "climatisation",
+     "chauffage",
+     "coffre",
+     "television",
+     "equipement"
+    ]
+   },
+   "a": {
+    "es": "Todas las habitaciones disponen de baño privado, aire acondicionado, calefacción, TV de pantalla plana y caja fuerte, entre otros. La mayoría tienen balcón.",
+    "ca": "Totes les habitacions disposen de bany privat, aire condicionat, calefacció, TV de pantalla plana i caixa forta, entre d'altres. La majoria tenen balcó.",
+    "en": "All rooms have a private bathroom, air conditioning, heating, a flat-screen TV and a safe, among other things. Most have a balcony.",
+    "fr": "Toutes les chambres disposent d'une salle de bain privée, de la climatisation, du chauffage, d'une TV à écran plat et d'un coffre-fort, entre autres. La plupart ont un balcon."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/",
+     "quote": "Todas ellas disponen de baño privado"
+    },
+    {
+     "url": "https://www.hostalcentric.com/",
+     "quote": "calefacción, TV de pantalla plana y caja fuerte"
+    },
+    {
+     "url": "https://www.hostalcentric.com/",
+     "quote": "La mayoría de habitaciones disponen de balcón"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "recepcion",
+   "keys": {
+    "es": [
+     "recepcion",
+     "24 horas",
+     "24h",
+     "abierta",
+     "personal",
+     "idiomas",
+     "multilingue"
+    ],
+    "ca": [
+     "recepcio",
+     "24 hores",
+     "24h",
+     "oberta",
+     "personal",
+     "idiomes",
+     "multilingue"
+    ],
+    "en": [
+     "reception",
+     "24 hours",
+     "24-hour",
+     "24h",
+     "open",
+     "staff",
+     "languages",
+     "multilingual"
+    ],
+    "fr": [
+     "reception",
+     "24 heures",
+     "24h",
+     "ouverte",
+     "personnel",
+     "langues",
+     "multilingue"
+    ]
+   },
+   "a": {
+    "es": "Sí: la recepción está abierta las 24 horas, y el personal es multilingüe y puede ayudarte con dudas o peticiones.",
+    "ca": "Sí: la recepció és oberta les 24 hores, i el personal és multilingüe i pot ajudar-te amb dubtes o peticions.",
+    "en": "Yes: reception is open 24 hours, and the multilingual staff can help with questions or requests.",
+    "fr": "Oui : la réception est ouverte 24 h sur 24, et le personnel multilingue peut vous aider pour toute question ou demande."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/",
+     "quote": "abierta las 24h"
+    },
+    {
+     "url": "https://www.hostalcentric.com/el-hostal/",
+     "quote": "Nuestro personal multilingüe estará encantado de ayudarte frente a cualquier duda o petición."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde esta",
+     "ubicacion",
+     "direccion",
+     "plaza universidad",
+     "ramblas",
+     "eixample",
+     "casanova"
+    ],
+    "ca": [
+     "on es",
+     "ubicacio",
+     "adreca",
+     "placa universitat",
+     "rambles",
+     "eixample",
+     "casanova"
+    ],
+    "en": [
+     "where is",
+     "location",
+     "address",
+     "plaza universidad",
+     "ramblas",
+     "eixample",
+     "casanova"
+    ],
+    "fr": [
+     "ou est",
+     "emplacement",
+     "adresse",
+     "plaza universidad",
+     "ramblas",
+     "eixample",
+     "casanova"
+    ]
+   },
+   "a": {
+    "es": "Está en el Carrer de Casanova, 13, 08011 Barcelona (Eixample), a 400 m de la Plaza de la Universidad y a unos 10 minutos a pie de las Ramblas.",
+    "ca": "És al Carrer de Casanova, 13, 08011 Barcelona (Eixample), a 400 m de la Plaça de la Universitat i a uns 10 minuts a peu de les Rambles.",
+    "en": "It is at Carrer de Casanova, 13, 08011 Barcelona (Eixample), 400 m from Plaza de la Universidad and about a 10-minute walk from Las Ramblas.",
+    "fr": "Il se trouve au Carrer de Casanova, 13, 08011 Barcelone (Eixample), à 400 m de la Plaza de la Universidad et à environ 10 minutes à pied des Ramblas."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/",
+     "quote": "Carrer de Casanova, 13, Barcelona, 08011"
+    },
+    {
+     "url": "https://www.hostalcentric.com/",
+     "quote": "a tan solo 400m de la Plaza de la Universidad y a unos 10 minutos a pie de las emblemáticas Ramblas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "llegar desde el aeropuerto",
+   "keys": {
+    "es": [
+     "aeropuerto",
+     "aerobus",
+     "como llego",
+     "llegar",
+     "taxi",
+     "prat"
+    ],
+    "ca": [
+     "aeroport",
+     "aerobus",
+     "com arribo",
+     "arribar",
+     "taxi",
+     "prat"
+    ],
+    "en": [
+     "airport",
+     "aerobus",
+     "how do i get",
+     "get there",
+     "taxi",
+     "prat"
+    ],
+    "fr": [
+     "aeroport",
+     "aerobus",
+     "comment venir",
+     "venir",
+     "taxi",
+     "prat"
+    ]
+   },
+   "a": {
+    "es": "Desde el aeropuerto de El Prat puedes ir en taxi (unos 30 minutos) o en el Aerobús (unos 30 minutos): bájate en GRAN VIA-BORRELL, sigue dos cuadras, gira a la derecha en la calle Casanova y baja una cuadra. También hay metro, bus y tren; su web detalla cada ruta y los precios. Confirma los precios actuales en su web.",
+    "ca": "Des de l'aeroport del Prat pots anar en taxi (uns 30 minuts) o amb l'Aerobús (uns 30 minuts): baixa a GRAN VIA-BORRELL, segueix dues illes, gira a la dreta pel carrer Casanova i baixa una illa. També hi ha metro, bus i tren; la seva web detalla cada ruta i els preus. Confirma els preus actuals a la seva web.",
+    "en": "From El Prat airport you can take a taxi (about 30 minutes) or the Aerobús (about 30 minutes): get off at GRAN VIA-BORRELL, walk two blocks, turn right onto Casanova street and go down one block. There are also metro, bus and train options; its website details each route and the prices. Check current prices on its website.",
+    "fr": "Depuis l'aéroport d'El Prat, vous pouvez prendre un taxi (environ 30 minutes) ou l'Aerobús (environ 30 minutes) : descendez à GRAN VIA-BORRELL, marchez deux pâtés de maisons, tournez à droite rue Casanova et descendez un pâté de maisons. Il y a aussi le métro, le bus et le train ; son site détaille chaque trajet et les prix. Vérifiez les prix actuels sur son site."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/contacto/",
+     "quote": "Aeropuerto Barcelona-El Prat TAXI La parada de taxis está justo fuera de las terminales del aeropuerto. Tiempo de viaje: 30 minutos."
+    },
+    {
+     "url": "https://www.hostalcentric.com/contacto/",
+     "quote": "Debe bajarse en GRAN VIA-BORRELL y seguir caminando en la misma dirección del bus durante dos cuadras."
+    },
+    {
+     "url": "https://www.hostalcentric.com/contacto/",
+     "quote": "Gire a la derecha en la calle Casanova y baje una cuadra para encontrarnos."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ofertas",
+   "keys": {
+    "es": [
+     "oferta",
+     "descuento",
+     "codigo",
+     "promocion",
+     "3 noches",
+     "tres noches"
+    ],
+    "ca": [
+     "oferta",
+     "descompte",
+     "codi",
+     "promocio",
+     "3 nits",
+     "tres nits"
+    ],
+    "en": [
+     "offer",
+     "discount",
+     "code",
+     "promotion",
+     "3 nights",
+     "three nights"
+    ],
+    "fr": [
+     "offre",
+     "remise",
+     "reduction",
+     "code",
+     "promotion",
+     "3 nuits",
+     "trois nuits"
+    ]
+   },
+   "a": {
+    "es": "Su web indica: reservando en su web oficial hay como mínimo un 13% de descuento directo con el código promocional que figura en su página de Ofertas, y un 10% adicional sobre la Tarifa Normal (5% sobre la No Reembolsable) al reservar tres o más noches. Según su web; confírmalo al reservar.",
+    "ca": "La seva web indica: reservant a la seva web oficial hi ha com a mínim un 13% de descompte directe amb el codi promocional que figura a la seva pàgina d'Ofertes, i un 10% addicional sobre la Tarifa Normal (5% sobre la No Reemborsable) en reservar tres o més nits. Segons la seva web; confirma-ho en reservar.",
+    "en": "Its website says: booking on its official website gives at least 13% direct discount with the promotional code shown on its Offers page, plus an extra 10% off the Normal Rate (5% off the Non-Refundable Rate) when booking three or more nights. According to its website; confirm it when you book.",
+    "fr": "Son site indique : en réservant sur son site officiel, remise directe d'au moins 13 % avec le code promotionnel indiqué sur sa page Offres, et 10 % de plus sur le Tarif Normal (5 % sur le Non Remboursable) pour trois nuits ou plus. Selon son site ; confirmez-le lors de la réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/ofertas/",
+     "quote": "Reservando con nosotros siempre tendrás, como mínimo, un 13% de descuento directo."
+    },
+    {
+     "url": "https://www.hostalcentric.com/ofertas/",
+     "quote": "Introduce el código WEBSECRET en tu búsqueda."
+    },
+    {
+     "url": "https://www.hostalcentric.com/ofertas/",
+     "quote": "Benefíciate de un 10% de descuento adicional sobre la Tarifa Normal o un 5% sobre la Tarifa No Reembolsable al reservar tres o más noches"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "como reservo",
+     "reservar",
+     "reserva",
+     "whatsapp",
+     "disponibilidad",
+     "libre"
+    ],
+    "ca": [
+     "com reservo",
+     "reservar",
+     "reserva",
+     "whatsapp",
+     "disponibilitat",
+     "lliure"
+    ],
+    "en": [
+     "how do i book",
+     "book",
+     "booking",
+     "reservation",
+     "whatsapp",
+     "availability",
+     "free room"
+    ],
+    "fr": [
+     "comment reserver",
+     "reserver",
+     "reservation",
+     "whatsapp",
+     "disponibilite",
+     "libre"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar con el botón Reservar, que lleva a su propia web, donde su botón RESERVA abre su motor de reservas, o contactar con ellos por WhatsApp. Esta demo no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar amb el botó Reservar, que porta a la seva pròpia web, on el seu botó RESERVA obre el seu motor de reserves, o contactar-hi per WhatsApp. Aquesta demo no confirma disponibilitat ni reserves.",
+    "en": "You can book with the Book button, which takes you to its own website, where its RESERVA button opens its booking engine, or contact them by WhatsApp. This demo does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver avec le bouton Réserver, qui mène à son propre site, où son bouton RESERVA ouvre son moteur de réservation, ou les contacter par WhatsApp. Cette démo ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/",
+     "quote": "Puedes contactar con nosotros por WhatsApp si tienes dudas o quieres reservar directamente."
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K08",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "mail"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "mail"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     "e-mail",
+     "contact",
+     "mail"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "courriel",
+     "email",
+     "contact",
+     "mail"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 934 267 573 y correo info@hostalcentric.com; dirección: Carrer de Casanova, 13, 08011 Barcelona.",
+    "ca": "Telèfon +34 934 267 573 i correu info@hostalcentric.com; adreça: Carrer de Casanova, 13, 08011 Barcelona.",
+    "en": "Phone +34 934 267 573 and email info@hostalcentric.com; address: Carrer de Casanova, 13, 08011 Barcelona.",
+    "fr": "Téléphone +34 934 267 573 et courriel info@hostalcentric.com ; adresse : Carrer de Casanova, 13, 08011 Barcelone."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/contacto/",
+     "quote": "Dirección Carrer de Casanova, 13 Barcelona, 08011 Email info@hostalcentric.com"
+    },
+    {
+     "url": "https://www.hostalcentric.com/contacto/",
+     "quote": "Teléfono +34 934 267 573"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "empresa",
+     "responsable",
+     "registro turistico"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "empresa",
+     "responsable",
+     "registre turistic"
+    ],
+    "en": [
+     "owner",
+     "holder",
+     "company",
+     "legal name",
+     "responsible",
+     "tourist register"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "societe",
+     "responsable",
+     "registre touristique"
+    ]
+   },
+   "a": {
+    "es": "Su política de privacidad indica como responsable del tratamiento a Casanova 13, S.L.U, con domicilio en C/ Casanovas 13, 08011 Barcelona. El pie de su web cita el registro REAT HB-002694.",
+    "ca": "La seva política de privacitat indica com a responsable del tractament Casanova 13, S.L.U, amb domicili a C/ Casanovas 13, 08011 Barcelona. El peu de la seva web cita el registre REAT HB-002694.",
+    "en": "Its privacy policy names Casanova 13, S.L.U as data controller, based at C/ Casanovas 13, 08011 Barcelona. The footer of its website cites the register number REAT HB-002694.",
+    "fr": "Sa politique de confidentialité désigne Casanova 13, S.L.U comme responsable du traitement, domicilié C/ Casanovas 13, 08011 Barcelone. Le pied de son site cite le registre REAT HB-002694."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/contacto/",
+     "quote": "RESPONSABLE DE TRATAMIENTO: Casanova 13, S.L.U"
+    },
+    {
+     "url": "https://www.hostalcentric.com/contacto/",
+     "quote": "escribiendo a Casanova 13, S.L.U, en C/ Casanovas 13, 08011 Barcelona"
+    },
+    {
+     "url": "https://www.hostalcentric.com/",
+     "quote": "REAT HB-002694"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcar",
+     "aparcamiento",
+     "coche",
+     "garaje"
+    ],
+    "ca": [
+     "parking",
+     "parquing",
+     "aparcar",
+     "aparcament",
+     "cotxe",
+     "garatge"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "garage",
+     "car"
+    ],
+    "fr": [
+     "parking",
+     "stationnement",
+     "garer",
+     "voiture",
+     "garage"
+    ]
+   },
+   "a": {
+    "es": "Su web recomienda el Parking Urgell (Floridablanca, 119), a 5 minutos a pie, abierto y vigilado 24/7, con precio especial para huéspedes; se contrata en recepción y solo se paga en efectivo. Confirma tarifas en recepción.",
+    "ca": "La seva web recomana el Parking Urgell (Floridablanca, 119), a 5 minuts a peu, obert i vigilat 24/7, amb preu especial per a hostes; es contracta a recepció i només es paga en efectiu. Confirma tarifes a recepció.",
+    "en": "Its website recommends Parking Urgell (Floridablanca, 119), 5 minutes on foot, open and supervised 24/7, with a special guest price; it is arranged at reception and paid in cash only. Confirm rates at reception.",
+    "fr": "Son site recommande le Parking Urgell (Floridablanca, 119), à 5 minutes à pied, ouvert et surveillé 24/7, avec un tarif spécial pour les clients ; il se réserve à la réception et se paie uniquement en espèces. Confirmez les tarifs à la réception."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/transportes/",
+     "quote": "Parking Urgell Floridablanca, 119 A tan solo 5 minutos a pie del Hostal Cèntric Abierto y Vigilado 24/7 Precio especial para huéspedes"
+    },
+    {
+     "url": "https://www.hostalcentric.com/transportes/",
+     "quote": "Solo se aceptan pagos en EFECTIVO"
+    },
+    {
+     "url": "https://www.hostalcentric.com/transportes/",
+     "quote": "Puedes contratar este servicio en recepción"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "terraza",
+   "keys": {
+    "es": [
+     "terraza",
+     "balcon",
+     "exterior"
+    ],
+    "ca": [
+     "terrassa",
+     "balco",
+     "exterior"
+    ],
+    "en": [
+     "terrace",
+     "balcony",
+     "outdoor"
+    ],
+    "fr": [
+     "terrasse",
+     "balcon",
+     "exterieur"
+    ]
+   },
+   "a": {
+    "es": "El hostal cuenta con una amplia terraza de uso público, y la mayoría de las habitaciones tienen balcón.",
+    "ca": "L'hostal té una àmplia terrassa d'ús públic, i la majoria d'habitacions tenen balcó.",
+    "en": "The hostal has a large terrace for public use, and most rooms have a balcony.",
+    "fr": "L'hostal dispose d'une grande terrasse à usage public, et la plupart des chambres ont un balcon."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalcentric.com/",
+     "quote": "además, el hostal cuenta con una amplia terraza de uso público"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

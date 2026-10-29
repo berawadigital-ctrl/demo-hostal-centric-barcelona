@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hostal-centric-barcelona",
+ "maps": {
+  "fecha": "2026-10-29T06:52:44+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hostal Cèntric",
+  "nota": 4.6,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Hostal+C%C3%A8ntric/@41.3824438,2.162506,17z/data=!4m9!3m8!1s0x12a4a28af14c1075:0x2eefa0e02d39042d!5m2!4m1!1i2!8m2!3d41.3824438!4d2.162506!16s%2Fg%2F1tgzk88r",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T06:52:44+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "Casanova 13, S.L.U.",
+  "cif": "B61659595",
+  "fuente": "https://empresite.eleconomista.es/CASANOVA-13.html (CIF B61659595, Casanova 13 Sl, «Gestión y explotación de hostal»; titular de la web según https://www.hostalcentric.com/politica-de-privacidad/: «El titular de este sitio web es: Casanova 13, S.L.U»)",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Un solo hostal (Hostal Cèntric, Carrer de Casanova 13, Barcelona; REAT HB-002694); sin cadena. CIF tomado de Empresite (datos de Informa), no de la web del negocio; contrastar con el registro mercantil. La web del negocio tiene contenido inyectado ajeno: evidencia en demos/hostal-centric-barcelona/spam/spam.md."
+ }
+}

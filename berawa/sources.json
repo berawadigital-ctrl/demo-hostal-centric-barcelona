@@ -1,0 +1,83 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hostalcentric.com/",
+ "read_at": "2026-10-29T10:24:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hostalcentric.com/",
+   "sha256": "db637cae860fd18cdd03ece54e64f53ae22875cf8aa2ccfa338fffa5cf1654dd",
+   "chars": 3445
+  },
+  {
+   "url": "https://www.hostalcentric.com/contacto/",
+   "sha256": "30b545e4d979da14b478a72bc52376dee3b39a470313c2083e9ab9fa79821653",
+   "chars": 8518
+  },
+  {
+   "url": "https://www.hostalcentric.com/el-hostal/",
+   "sha256": "d786b83617e1afa4f5cb030789a4c9f7b1496a20aec784834abad8a707d5511b",
+   "chars": 5335
+  },
+  {
+   "url": "https://www.hostalcentric.com/ofertas/",
+   "sha256": "8e9943ecfc75346ebfbbeccb3191ec816186188b2cd8fb62fd943ec61a31d10a",
+   "chars": 2288
+  },
+  {
+   "url": "https://www.hostalcentric.com/room-details/habitacion-cuadruple/",
+   "sha256": "b5ca47b62476f15d0cefbc72ad32829ebdcd3375e9730d1ce649fb762c816648",
+   "chars": 2892
+  },
+  {
+   "url": "https://www.hostalcentric.com/room-details/habitacion-doble/",
+   "sha256": "c79b111112284d583cfd2fcb2b3716a4e4ebcd325e851dbf8b18f0c111fe6f4e",
+   "chars": 3026
+  },
+  {
+   "url": "https://www.hostalcentric.com/room-details/habitacion-individual/",
+   "sha256": "0087a40195d7286bdad3f8edf76f973444ea5e72b7d1f4476a6c4f41086e8eba",
+   "chars": 2638
+  },
+  {
+   "url": "https://www.hostalcentric.com/room-details/habitacion-triple-superior/",
+   "sha256": "0660e1e559856bf0fdaa5f0e60416e60f89739a23592d3bf12f927b691d7881e",
+   "chars": 3077
+  },
+  {
+   "url": "https://www.hostalcentric.com/room-details/habitacion-triple/",
+   "sha256": "b4a984ffa3229e36cb3152b8fed28ba637191e689307133673bbaad5b95f62a2",
+   "chars": 2837
+  },
+  {
+   "url": "https://www.hostalcentric.com/room-details/habitacion-twin-superior/",
+   "sha256": "463166c893ac019ac39de088dc4553ba465dd4564a24b6209d8827ededa72838",
+   "chars": 3074
+  },
+  {
+   "url": "https://www.hostalcentric.com/room-details/habitacion-twin/",
+   "sha256": "c2525a673864348e8305ec417e20942b6292784f80a1304cf9414adf9829f86a",
+   "chars": 2772
+  },
+  {
+   "url": "https://www.hostalcentric.com/transportes/",
+   "sha256": "c4a71cf9c78ca416f9a83fc05a85d0c6e14ac44dbb7ce00ae58d2b45fcb30823",
+   "chars": 3428
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hostalcentric.com",
+  "https://www.hostalcentric.com/barcelona/",
+  "https://www.hostalcentric.com/ca/",
+  "https://www.hostalcentric.com/en/",
+  "https://www.hostalcentric.com/en/room-details/single-room/",
+  "https://www.hostalcentric.com/en/rooms/",
+  "https://www.hostalcentric.com/en/the-hostel/",
+  "https://www.hostalcentric.com/fr/",
+  "https://www.hostalcentric.com/galeria-fotos/",
+  "https://www.hostalcentric.com/habitaciones/",
+  "https://www.hostalcentric.com/it/",
+  "https://www.hostalcentric.com/politica-de-privacidad/",
+  "https://www.hostalcentric.com/recomendaciones/"
+ ]
+}
