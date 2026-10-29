@@ -334,7 +334,6 @@
      "oferta",
      "descuento",
      "codigo",
-     "websecret",
      "promocion",
      "3 noches",
      "tres noches"
@@ -343,7 +342,6 @@
      "oferta",
      "descompte",
      "codi",
-     "websecret",
      "promocio",
      "3 nits",
      "tres nits"
@@ -352,7 +350,6 @@
      "offer",
      "discount",
      "code",
-     "websecret",
      "promotion",
      "3 nights",
      "three nights"
@@ -362,17 +359,16 @@
      "remise",
      "reduction",
      "code",
-     "websecret",
      "promotion",
      "3 nuits",
      "trois nuits"
     ]
    },
    "a": {
-    "es": "Su web indica: reservando en su web oficial hay como mínimo un 13% de descuento directo con el código WEBSECRET, y un 10% adicional sobre la Tarifa Normal (5% sobre la No Reembolsable) al reservar tres o más noches. Según su web; confírmalo al reservar.",
-    "ca": "La seva web indica: reservant a la seva web oficial hi ha com a mínim un 13% de descompte directe amb el codi WEBSECRET, i un 10% addicional sobre la Tarifa Normal (5% sobre la No Reemborsable) en reservar tres o més nits. Segons la seva web; confirma-ho en reservar.",
-    "en": "Its website says: booking on its official website gives at least 13% direct discount with the code WEBSECRET, plus an extra 10% off the Normal Rate (5% off the Non-Refundable Rate) when booking three or more nights. According to its website; confirm it when you book.",
-    "fr": "Son site indique : en réservant sur son site officiel, remise directe d'au moins 13 % avec le code WEBSECRET, et 10 % de plus sur le Tarif Normal (5 % sur le Non Remboursable) pour trois nuits ou plus. Selon son site ; confirmez-le lors de la réservation."
+    "es": "Su web indica: reservando en su web oficial hay como mínimo un 13% de descuento directo con el código promocional que figura en su página de Ofertas, y un 10% adicional sobre la Tarifa Normal (5% sobre la No Reembolsable) al reservar tres o más noches. Según su web; confírmalo al reservar.",
+    "ca": "La seva web indica: reservant a la seva web oficial hi ha com a mínim un 13% de descompte directe amb el codi promocional que figura a la seva pàgina d'Ofertes, i un 10% addicional sobre la Tarifa Normal (5% sobre la No Reemborsable) en reservar tres o més nits. Segons la seva web; confirma-ho en reservar.",
+    "en": "Its website says: booking on its official website gives at least 13% direct discount with the promotional code shown on its Offers page, plus an extra 10% off the Normal Rate (5% off the Non-Refundable Rate) when booking three or more nights. According to its website; confirm it when you book.",
+    "fr": "Son site indique : en réservant sur son site officiel, remise directe d'au moins 13 % avec le code promotionnel indiqué sur sa page Offres, et 10 % de plus sur le Tarif Normal (5 % sur le Non Remboursable) pour trois nuits ou plus. Selon son site ; confirmez-le lors de la réservation."
    },
    "sources": [
     {
